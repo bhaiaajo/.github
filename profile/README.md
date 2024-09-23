@@ -9,10 +9,6 @@
   - [NNFR](#nnfr)
 - [Features](#features)
 - [How It Works](#how-it-works)
-- [Tech Stack](#tech-stack)
-- [Installation and Setup](#installation-and-setup)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## About Bhai Aajo
 
@@ -49,7 +45,7 @@ To provide free, high-quality entertainment content to users worldwide while pro
 1. **Choose a Platform**: Depending on your preference, visit either **Stream FR** for a vast library or **NNFR** for dubbed movies.
 2. **Browse and Watch**: Explore the catalog and start watching your favorite content for free.
 3. **No Sign-Up Required**: No subscription or account creation needed—just enjoy the content.
-
+---
 *Dive into endless entertainment with **Bhai Aajo** and its family of streaming platforms!*
 
 
