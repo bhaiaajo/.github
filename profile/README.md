@@ -32,7 +32,6 @@ To provide free, high-quality entertainment content to users worldwide while pro
 
 - **Library Size**: Small, with a curated selection of movies.
 - **Content**: English and Hindi-dubbed movies.
-- **Genres**: Action, drama, adventure, and comedy.
   
 ## Features
 - **Free Streaming**: Enjoy all content without any subscription fees.
