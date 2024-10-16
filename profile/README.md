@@ -1,5 +1,7 @@
 # Bhai Aajo
 
+<p align="center"> <img src="https://profile-counter.glitch.me/bhaiaajo/count.svg"></p>
+
 **Bhai Aajo** is a media conglomerate specializing in providing free access to movies and TV shows. Through our subsidiary companies, we offer a vast range of content, from extensive movie libraries to niche collections of dubbed films. Our mission is to make entertainment easily accessible to everyone, without any cost.
 
 ## Table of Contents
